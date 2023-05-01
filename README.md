@@ -9,8 +9,8 @@ I'm Rohit, a web developer from India.
 - 👨‍💻 TypeScript, JavaScript
 - ⚙️ React, Vue
 - ⚙️ Node, Nest.js
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo,
+- 👁️ SASS, CSS, Stylus, Tailwinf
+- 💽 MySQL, SQL, Postgress, Mongo ,Firebase
 
 ## Contact
 - [@rohit-h-630a81192](https://www.linkedin.com/in/rohit-h-630a81192/) on Linkedin
