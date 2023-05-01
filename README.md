@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/b805rohit/b805rohit/master/name.svg" alt="Rohit Haldar" />
+</h1>
 
-<!--
-**b805rohit/b805rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Marton, a web developer from India.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React, Vue
+- ⚙️ Node, Nest.js
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [@rohit-h-630a81192](https://www.linkedin.com/in/rohit-h-630a81192/) on Linkedin
