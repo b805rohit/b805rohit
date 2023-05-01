@@ -7,9 +7,9 @@ I'm Rohit, a web developer from India.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
-- ⚙️ React, Vue
+- ⚙️ React, Vue 3, Nuxt
 - 🎒 Node, Nest.js
-- 👁️ SASS, CSS, Stylus, Tailwinf
+- 👁️ SASS, CSS, Stylus, Tailwind css
 - 💽 MySQL, SQL, Postgress, Mongo ,Firebase
 
 ## Contact
