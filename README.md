@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Marton, a web developer from India.
+I'm Rohit, a web developer from India.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
