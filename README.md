@@ -8,6 +8,7 @@
 
 
 ## Skills
+- GCP, AWS
 - 👨‍💻 TypeScript, JavaScript
 - ⚙️ React, Vue 3, Nuxt
 - 🎒 Node, Nest.js
