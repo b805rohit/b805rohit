@@ -8,12 +8,12 @@
 
 
 ## Skills
-- GCP, AWS
 - 👨‍💻 TypeScript, JavaScript
 - ⚙️ React, Vue 3, Nuxt
 - 🎒 Node, Nest.js
 - 👁️ SASS, CSS, Stylus, Tailwind css
 - 💽 MySQL, SQL, Postgress, Mongo ,Firebase
+- :cloud: GCP, AWS
 
 ## Contact
 - [@rohit-h-630a81192](https://www.linkedin.com/in/rohit-h-630a81192/) on Linkedin
