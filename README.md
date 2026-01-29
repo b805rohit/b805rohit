@@ -1,88 +1,89 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Rohit+%F0%9F%91%8B;Full-Stack+Developer;Building+Clean+%26+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Rohit+%F0%9F%91%8B;Full-Stack+Developer;AI+%2B+Web+Builder" alt="Typing SVG" />
   </a>
 </h1>
+
+<p align="center">
+  <strong>Full-Stack Developer</strong> who builds AI-powered products from scratch.<br/>
+  I turn ideas into shipped products — from architecture to deployment.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-h-630a81192/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/b805rohit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 What I Build
 
-```typescript
-const rohit = {
-    role: "Full-Stack Developer",
-    location: "India 🇮🇳",
-    focus: ["Clean Code", "Great UX", "Scalable Architecture"],
-    motto: "Every bug is a lesson in disguise"
-};
-```
+<table>
+<tr>
+<td width="50%">
 
-- 🔭 Building **user-centric** web applications
-- 🌱 Always exploring **new technologies** and best practices
-- 💡 Passionate about **clean code** and **efficient algorithms**
-- ⚡ Fun fact: I turn coffee into code
+**[LandLab](https://github.com/b805rohit/landlab)** 🔥  
+AI-powered landing page generator — describe it, watch it build. Text-to-code, image-to-code, URL cloning.
 
----
+`Nuxt` `Vue 3` `Gemini AI` `Tailwind`
 
-### 🛠️ Tech Stack
+</td>
+<td width="50%">
 
-**Languages**
+**[LangGraph Learn TS](https://github.com/b805rohit/LangGraph-learn-TS)**  
+TypeScript implementation of LangGraph with Ollama — workflows, agents, and RAG for AI apps.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+`TypeScript` `LangGraph` `Ollama` `RAG`
 
-**Frontend**
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+**[Filesystem AI Agent](https://github.com/b805rohit/filesystem-ai-agent)**  
+AI agent that interacts with your filesystem.
 
-**Backend**
+`TypeScript` `AI Agents`
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+</td>
+<td width="50%">
 
-**Databases**
+**[Micro-Frontend Demo](https://github.com/b805rohit/micro-frontend-demo)**  
+Module federation architecture for enterprise-scale apps.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+`TypeScript` `Vite` `Module Federation`
 
-**Cloud & DevOps**
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Let's Connect
+### 💡 What I Do
+
+- **Ship products** — I've built AI tools from zero to production
+- **Enterprise architecture** — Micro-frontends, scalable systems
+- **AI integration** — LangChain, LangGraph, Gemini, building AI agents
+- **Mentor developers** — Helping others level up
+
+---
+
+### 🛠️ Stack
+
+**Frontend** · Vue 3 · Nuxt · React · TypeScript · Tailwind  
+**Backend** · Node.js · NestJS · PostgreSQL · MongoDB  
+**AI** · Gemini · LangChain · LangGraph · Ollama  
+**Cloud** · GCP · AWS · Docker
+
+---
 
 <p align="center">
-  I'm always interested in connecting with fellow developers and discussing new opportunities.
+  <i>Building something interesting? Let's talk.</i>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-h-630a81192/">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
 </p>
