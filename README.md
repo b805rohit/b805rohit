@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Rohit+%F0%9F%91%8B;Full-Stack+Developer;AI+%2B+Web+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Rohit+%F0%9F%91%8B;Full-Stack+Developer;AI+%2B+Enterprise+Builder" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> who builds AI-powered products from scratch.<br/>
-  I turn ideas into shipped products — from architecture to deployment.
+  <strong>Full-Stack Developer @ <a href="https://www.gohighlevel.com/">GoHighLevel</a></strong><br/>
+  Building enterprise SaaS by day, AI-powered tools by night.
 </p>
 
 <p align="center">
@@ -17,42 +17,52 @@
 
 ---
 
-### 🚀 What I Build
+### 👨‍💻 About
+
+- 🏢 **Software Engineer** at [GoHighLevel](https://www.gohighlevel.com/) — building SaaS at scale
+- 🔧 Contributing to **page-builder**, **marketplace**, **platform** backend systems
+- 🤖 Building **AI-powered developer tools** in my free time
+- 📅 **7+ years** on GitHub | **1000+ contributions** this year
+- 🎯 Passionate about **Vue/Nuxt**, **micro-frontends**, and **AI agents**
+
+---
+
+### 🚀 Side Projects
 
 <table>
 <tr>
 <td width="50%">
 
 **[LandLab](https://github.com/b805rohit/landlab)** 🔥  
-AI-powered landing page generator — describe it, watch it build. Text-to-code, image-to-code, URL cloning.
+AI-powered landing page generator — describe it, watch it build.
 
 `Nuxt` `Vue 3` `Gemini AI` `Tailwind`
 
 </td>
 <td width="50%">
 
-**[LangGraph Learn TS](https://github.com/b805rohit/LangGraph-learn-TS)**  
-TypeScript implementation of LangGraph with Ollama — workflows, agents, and RAG for AI apps.
+**[Filesystem AI Agent](https://github.com/b805rohit/filesystem-ai-agent)**  
+AI agent that interacts with your filesystem.
 
-`TypeScript` `LangGraph` `Ollama` `RAG`
+`TypeScript` `AI Agents` `LangChain`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[Filesystem AI Agent](https://github.com/b805rohit/filesystem-ai-agent)**  
-AI agent that interacts with your filesystem.
+**[LangGraph Learn TS](https://github.com/b805rohit/LangGraph-learn-TS)**  
+LangGraph + Ollama — workflows, agents, RAG.
 
-`TypeScript` `AI Agents`
+`TypeScript` `LangGraph` `Ollama`
 
 </td>
 <td width="50%">
 
-**[Micro-Frontend Demo](https://github.com/b805rohit/micro-frontend-demo)**  
-Module federation architecture for enterprise-scale apps.
+**[Price Banner Component](https://github.com/b805rohit/marketing-price-banner)** ⭐  
+Reusable Vue component. 4 stars, 6 forks.
 
-`TypeScript` `Vite` `Module Federation`
+`Vue` `Component Library`
 
 </td>
 </tr>
@@ -60,30 +70,30 @@ Module federation architecture for enterprise-scale apps.
 
 ---
 
-### 💡 What I Do
+### 🛠️ Stack
 
-- **Ship products** — I've built AI tools from zero to production
-- **Enterprise architecture** — Micro-frontends, scalable systems
-- **AI integration** — LangChain, LangGraph, Gemini, building AI agents
-- **Mentor developers** — Helping others level up
+```
+Frontend   →  Vue 3 · Nuxt · React · TypeScript · Tailwind
+Backend    →  Node.js · NestJS · PostgreSQL · MongoDB
+AI         →  Gemini · LangChain · LangGraph · Ollama
+Cloud      →  GCP · AWS · Docker
+Architecture →  Micro-frontends · Module Federation
+```
 
 ---
 
-### 🛠️ Stack
+### 📊 Activity
 
-**Frontend** · Vue 3 · Nuxt · React · TypeScript · Tailwind  
-**Backend** · Node.js · NestJS · PostgreSQL · MongoDB  
-**AI** · Gemini · LangChain · LangGraph · Ollama  
-**Cloud** · GCP · AWS · Docker
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=b805rohit&theme=github-compact&hide_border=true&area=true)
 
 ---
 
 <p align="center">
-  <i>Building something interesting? Let's talk.</i>
+  <i>Open to interesting conversations and collaborations.</i>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-h-630a81192/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
