@@ -20,7 +20,7 @@
 ### 👨‍💻 About
 
 - 🏢 **Software Engineer** at [GoHighLevel](https://www.gohighlevel.com/) — building SaaS at scale
-- 🌐 **Infrastructure**: DNS systems, SSL/TLS automation, domain lifecycle management
+- 🌐 **Infrastructure**: DNS, SSL/TLS, and domain systems at scale
 - 🔧 **Building**: Full-stack features with product ownership — from UI to infrastructure
 - 🤖 **AI/LLM**: LangChain, Vertex AI, Langfuse — shipping AI features in production
 - 📅 **5+ years** on GitHub | **1000+ contributions** this year
@@ -49,15 +49,7 @@ AI agent that interacts with your filesystem.
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-**[Price Banner Component](https://github.com/b805rohit/marketing-price-banner)** ⭐  
-Reusable Vue component. 4 stars, 6 forks.
-
-`Vue` `Component Library`
-
-</td>
-<td width="50%">
+<td width="50%" colspan="2" align="center">
 
 **[Micro-Frontend Demo](https://github.com/b805rohit/micro-frontend-demo)**  
 Module federation architecture for scalable apps.
@@ -73,24 +65,19 @@ Module federation architecture for scalable apps.
 ### 🛠️ Stack
 
 ```
-Frontend     →  Vue 3 · Nuxt · React · TypeScript · Tailwind
-Backend      →  Node.js · NestJS · PostgreSQL · MongoDB
-AI/LLM       →  LangChain · Vertex AI · Langfuse · Gemini
-Cloud        →  GCP · AWS · Docker · Istio
-Systems      →  Cloudflare · DNS · SSL/TLS · Domain Registrar APIs
-Patterns     →  Microservices · Background Workers · RBAC · Billing Systems
+Languages    →  TypeScript · JavaScript · Python · SQL
+Frontend     →  Vue 3 · Nuxt · React · Tailwind
+Backend      →  NestJS · Node.js · PostgreSQL · MongoDB
+AI/LLM       →  LangGraph · LangChain · Langfuse · Vertex AI · Gemini
+Infra        →  Kubernetes · Docker · Istio
+Cloud        →  GCP · Cloudflare
+Architecture →  Microservices · Micro-Frontends · Event-Driven
 ```
 
 ---
 
-### 📊 Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=b805rohit&theme=github-compact&hide_border=true&area=true)
-
----
-
 <p align="center">
-  <i>Open to interesting conversations and collaborations.</i>
+  <i>Open to collaborations on AI tools, open source, or interesting technical challenges.</i>
 </p>
 
 <p align="center">
