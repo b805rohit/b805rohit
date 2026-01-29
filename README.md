@@ -14,81 +14,71 @@
   <img src="https://komarev.com/ghpvc/?username=b805rohit&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-<br/>
+---
 
-<img align="right" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" alt="coding gif"/>
+### 👨‍💻 About Me
 
-### 🧑‍💻 About Me
+```typescript
+const rohit = {
+    role: "Full-Stack Developer",
+    location: "India 🇮🇳",
+    focus: ["Clean Code", "Great UX", "Scalable Architecture"],
+    motto: "Every bug is a lesson in disguise"
+};
+```
 
-- 🔭 Full-Stack Developer focused on **clean code** & **great UX**
-- 🌱 Always exploring new technologies and best practices
-- 💡 I believe every bug is a lesson in disguise
+- 🔭 Building **user-centric** web applications
+- 🌱 Always exploring **new technologies** and best practices
+- 💡 Passionate about **clean code** and **efficient algorithms**
 - ⚡ Fun fact: I turn coffee into code
-
-<br clear="right"/>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+**Languages**
 
-#### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nuxt,tailwind,sass&perline=4" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</td>
-<td valign="top" width="33%">
+**Frontend**
 
-#### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&perline=4" />
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+**Backend**
 
-#### Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,gcp,aws&perline=4" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-</td>
-</tr>
-</table>
+**Databases**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 📊 GitHub Stats
+**Cloud & DevOps**
 
-<p align="center">
-  <a href="https://github.com/b805rohit">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=b805rohit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/b805rohit">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=b805rohit&theme=radical" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/b805rohit">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=b805rohit&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
-  </a>
-</p>
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🏆 GitHub Trophies
+### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/b805rohit">
-    <img src="https://github-profile-trophy.vercel.app/?username=b805rohit&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  I'm always interested in connecting with fellow developers and discussing new opportunities.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-h-630a81192/">
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
