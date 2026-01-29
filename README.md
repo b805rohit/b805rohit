@@ -20,9 +20,10 @@
 ### 👨‍💻 About
 
 - 🏢 **Software Engineer** at [GoHighLevel](https://www.gohighlevel.com/) — building SaaS at scale
-- 🤖 Building **AI-powered developer tools** in my free time
+- 🌐 **Infrastructure**: DNS systems, SSL/TLS automation, domain lifecycle management
+- 🔧 **Building**: Full-stack features with product ownership — from UI to infrastructure
+- 🤖 **AI/LLM**: LangChain, Vertex AI, Langfuse — shipping AI features in production
 - 📅 **5+ years** on GitHub | **1000+ contributions** this year
-- 🎯 Passionate about **Vue/Nuxt**, **micro-frontends**, and **AI agents**
 
 ---
 
@@ -72,11 +73,12 @@ Module federation architecture for scalable apps.
 ### 🛠️ Stack
 
 ```
-Frontend   →  Vue 3 · Nuxt · React · TypeScript · Tailwind
-Backend    →  Node.js · NestJS · PostgreSQL · MongoDB
-AI         →  Gemini · LangChain · LangGraph · Ollama
-Cloud      →  GCP · AWS · Docker
-Architecture →  Micro-frontends · Module Federation
+Frontend     →  Vue 3 · Nuxt · React · TypeScript · Tailwind
+Backend      →  Node.js · NestJS · PostgreSQL · MongoDB
+AI/LLM       →  LangChain · Vertex AI · Langfuse · Gemini
+Cloud        →  GCP · AWS · Docker · Istio
+Systems      →  Cloudflare · DNS · SSL/TLS · Domain Registrar APIs
+Patterns     →  Microservices · Background Workers · RBAC · Billing Systems
 ```
 
 ---
