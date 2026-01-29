@@ -20,7 +20,6 @@
 ### 👨‍💻 About
 
 - 🏢 **Software Engineer** at [GoHighLevel](https://www.gohighlevel.com/) — building SaaS at scale
-- 🔧 Contributing to **page-builder**, **marketplace**, **platform** backend systems
 - 🤖 Building **AI-powered developer tools** in my free time
 - 📅 **7+ years** on GitHub | **1000+ contributions** this year
 - 🎯 Passionate about **Vue/Nuxt**, **micro-frontends**, and **AI agents**
