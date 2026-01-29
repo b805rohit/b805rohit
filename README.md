@@ -21,7 +21,7 @@
 
 - 🏢 **Software Engineer** at [GoHighLevel](https://www.gohighlevel.com/) — building SaaS at scale
 - 🤖 Building **AI-powered developer tools** in my free time
-- 📅 **7+ years** on GitHub | **1000+ contributions** this year
+- 📅 **5+ years** on GitHub | **1000+ contributions** this year
 - 🎯 Passionate about **Vue/Nuxt**, **micro-frontends**, and **AI agents**
 
 ---
@@ -50,18 +50,18 @@ AI agent that interacts with your filesystem.
 <tr>
 <td width="50%">
 
-**[LangGraph Learn TS](https://github.com/b805rohit/LangGraph-learn-TS)**  
-LangGraph + Ollama — workflows, agents, RAG.
-
-`TypeScript` `LangGraph` `Ollama`
-
-</td>
-<td width="50%">
-
 **[Price Banner Component](https://github.com/b805rohit/marketing-price-banner)** ⭐  
 Reusable Vue component. 4 stars, 6 forks.
 
 `Vue` `Component Library`
+
+</td>
+<td width="50%">
+
+**[Micro-Frontend Demo](https://github.com/b805rohit/micro-frontend-demo)**  
+Module federation architecture for scalable apps.
+
+`TypeScript` `Vite` `Module Federation`
 
 </td>
 </tr>
