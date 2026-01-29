@@ -65,12 +65,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=b805rohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=b805rohit&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=b805rohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=b805rohit&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=b805rohit&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=b805rohit&theme=default&hide_border=true" alt="GitHub Streak"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b805rohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=b805rohit&layout=compact&theme=tokyonight&hide_border=true" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b805rohit&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  </picture>
 </p>
 
 ---
@@ -78,7 +87,10 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=b805rohit&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=b805rohit&theme=tokyonight&no-frame=true&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=b805rohit&theme=flat&no-frame=true&column=7" alt="GitHub Trophies"/>
+  </picture>
 </p>
 
 ---
@@ -86,7 +98,10 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b805rohit&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=b805rohit&theme=tokyo-night&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=b805rohit&theme=minimal&hide_border=true" alt="Contribution Graph"/>
+  </picture>
 </p>
 
 ---
