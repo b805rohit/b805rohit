@@ -11,7 +11,6 @@
   <a href="https://github.com/b805rohit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=b805rohit&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
