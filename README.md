@@ -65,21 +65,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=b805rohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=b805rohit&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=b805rohit&theme=tokyonight&hide_border=true" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=b805rohit&theme=default&hide_border=true" alt="GitHub Streak"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=b805rohit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=b805rohit&layout=compact&theme=tokyonight&hide_border=true" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b805rohit&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=b805rohit&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b805rohit&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -87,21 +81,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=b805rohit&theme=tokyonight&no-frame=true&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=b805rohit&theme=flat&no-frame=true&column=7" alt="GitHub Trophies"/>
-  </picture>
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=b805rohit&theme=tokyo-night&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=b805rohit&theme=minimal&hide_border=true" alt="Contribution Graph"/>
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=b805rohit&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
