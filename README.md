@@ -65,15 +65,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b805rohit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://github.com/b805rohit">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=b805rohit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=b805rohit&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/b805rohit">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=b805rohit&theme=radical" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b805rohit&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/b805rohit">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=b805rohit&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
+  </a>
 </p>
 
 ---
@@ -81,7 +87,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=b805rohit&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <a href="https://github.com/b805rohit">
+    <img src="https://github-profile-trophy.vercel.app/?username=b805rohit&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
