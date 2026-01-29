@@ -1,17 +1,20 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Rohit+%F0%9F%91%8B;Full-Stack+Developer;AI+%2B+Enterprise+Builder" alt="Typing SVG" />
-  </a>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=Rohit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h3 align="center">Full-Stack Developer · AI Builder · Infrastructure at Scale</h3>
 
 <p align="center">
-  <strong>Full-Stack Developer @ <a href="https://www.gohighlevel.com/">GoHighLevel</a></strong><br/>
+  <strong>Software Engineer @ <a href="https://www.gohighlevel.com/">GoHighLevel</a></strong><br/>
   Building enterprise SaaS by day, AI-powered tools by night.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-h-630a81192/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@b805rohit">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
@@ -59,6 +62,18 @@ Module federation architecture for scalable apps.
 </td>
 </tr>
 </table>
+
+---
+
+### 🌍 Open Source Contributor
+
+[LangChain.js](https://github.com/langchain-ai/langchainjs) · [Domain-Connect](https://github.com/Domain-Connect/Templates)
+
+---
+
+### ✍️ Writing
+
+[Stop Building Complex RAG Pipelines — Just Give Your AI Agent Bash](https://medium.com/@b805rohit/stop-building-complex-rag-pipelines-just-give-your-ai-agent-bash-7c4fd95c96f9)
 
 ---
 
